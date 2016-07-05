@@ -8,6 +8,8 @@
 ![](http://o7q6guhd5.bkt.clouddn.com/%E6%B7%BB%E5%8A%A0%E8%AF%BE%E7%A8%8B%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
 #数据库
 ![](http://o7q6guhd5.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
+#数据库学生表
+![](http://o7q6guhd5.bkt.clouddn.com/%E5%AD%A6%E7%94%9F%E8%A1%A8.PNG)
 #结构图
 ![](http://o7q6guhd5.bkt.clouddn.com/%E7%BB%93%E6%9E%84%E5%9B%BE.PNG)
 #登录
