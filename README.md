@@ -25,6 +25,6 @@
 #老师添加
 ![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E6%B7%BB%E5%8A%A0.PNG)
 #老师修改
-![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E6%B7%BB%E5%8A%A0.PNG)
+![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E4%BF%AE%E6%94%B9.PNG)
 #已选课程成绩
 ![](http://o7q6guhd5.bkt.clouddn.com/%E5%B7%B2%E9%80%89%E8%AF%BE%E7%A8%8B%E6%88%90%E7%BB%A9.PNG)
