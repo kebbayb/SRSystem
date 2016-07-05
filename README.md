@@ -5,7 +5,7 @@
 #选课时序图
 ![](http://o7q6guhd5.bkt.clouddn.com/%E9%80%89%E8%AF%BE%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
 #管理员添加课程时序图
-![](http://o7q6guhd5.bkt.clouddn.com/%E9%80%89%E8%AF%BE%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
+![](http://o7q6guhd5.bkt.clouddn.com/%E6%B7%BB%E5%8A%A0%E8%AF%BE%E7%A8%8B%E6%97%B6%E5%BA%8F%E5%9B%BE.png)
 #数据库
 ![](http://o7q6guhd5.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%BA%93.PNG)
 #登录
@@ -23,7 +23,7 @@
 #老师管理
 ![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E7%AE%A1%E7%90%86.PNG)
 #老师添加
-![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E7%AE%A1%E7%90%86.PNG)
+![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E6%B7%BB%E5%8A%A0.PNG)
 #老师修改
 ![](http://o7q6guhd5.bkt.clouddn.com/%E8%80%81%E5%B8%88%E6%B7%BB%E5%8A%A0.PNG)
 #已选课程成绩
